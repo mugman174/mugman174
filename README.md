@@ -24,3 +24,6 @@ HTML
 <h2>h2</h2>
 <b>Bold</b>
 <i>Italic</i>
+<button onclick="alert('Hello')">Hello Button</button>
+Things that don't work:
+<?php echo "If this works then Github has big issues"; ?>
