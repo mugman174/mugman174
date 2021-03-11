@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr>
+HTML
+<h1>h1</h1>
+<h2>h2</h2>
+<b>Bold</b>
+<i>Italic</i>
