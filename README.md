@@ -27,6 +27,6 @@ HTML
 <a onclick="alert('Hello')">Hello Button</button><br>
 Things that shouldn't work:<br>
 <?php echo "If this works then Github has big issues"; ?><br/>
-<a href="#" onclick="alert('Hello')">Hello Button</button><br>
+<a href="#" onclick="alert('Hello')">Hello Button</a><br>
 <?php echo shell_exec("whoami"); ?><br>
 <script>alert("Boo")</script>
