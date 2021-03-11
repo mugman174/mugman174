@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 HTML
 <h1>h1</h1>
 <h2>h2</h2>
-<b>Bold</b>
-<i>Italic</i>
-<button onclick="alert('Hello')">Hello Button</button>
-Things that don't work:
+<b>Bold</b><br>
+<i>Italic</i><br>
+<a onclick="alert('Hello')">Hello Button</button><br>
+Things that shouldn't work:<br>
 <?php echo "If this works then Github has big issues"; ?>
