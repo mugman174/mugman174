@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - Favorite command: `sudo rm -rf / --no-preserve-root`
-- Currently working on: [Bifrost](http://bit.ly/add-bifrost)
+- Currently working on: [Generic Linux](https://genericlinux.org)
 - Need help on [NoOS](http://github.com/NOperatingSystem/NOperatingSystem)
-- Pronouns: [Use PronounDB to view](http://pronoundb.org)
+- Discord Bot: [Bifrost](https://bit.ly/add-bifrost)
+- Pronouns: [He/Him](http://pronoundb.org)
 <!--
 **mugman174/mugman174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
