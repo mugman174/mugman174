@@ -18,17 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Hello people looking at my README file 👋
 -->
-<hr>
-HTML
-<h1>h1</h1>
-<h2>h2</h2>
-<b>Bold</b><br>
-<i>Italic</i><br>
-<a onclick="alert('Hello')">Hello Button</button><br>
-<hr>
-Things that shouldn't work:<br>
-<?php echo "If this works then Github has big issues"; ?><br/>
-<a href="#" onclick="alert('Hello')">Hello Button</a><br>
-<?php echo shell_exec("whoami"); ?><br>
-<script>alert("Boo")</script>
