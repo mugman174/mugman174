@@ -6,7 +6,7 @@
 - Discord Bot: [Bifrost](https://bit.ly/add-bifrost)
 - Pronouns: [He/Him](http://pronoundb.org)
 - Discord Server: [https://discord.gg/Gpm9pXtWpG](https://discord.gg/Gpm9pXtWpG)
-  - ![](https://discord.com/api/guilds/744250209990738020/embed.png?style=shield)
+  - [![](https://discord.com/api/guilds/744250209990738020/embed.png?style=shield)](https://discord.gg/Gpm9pXtWpG)
 <!--
 **mugman174/mugman174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
