@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- Favorite command: `sudo rm -rf / --no-preserve-root`
-- Currently working on: [Generic Linux](https://genericlinux.org)
-- Need help on [NoOS](http://github.com/NOperatingSystem/NOperatingSystem)
-- Discord Bot: [Bifrost](https://bit.ly/add-bifrost)
-- Pronouns: [He/Him](http://pronoundb.org)
-- Discord Server: [https://discord.gg/Gpm9pXtWpG](https://discord.gg/Gpm9pXtWpG)
+- Favorite command: `sudo dd if=/dev/urandom of=/dev/sda`
+- 🔭 Currently working on: [Bifrost](https://bit.ly/add-bifrost)
+<!-- Need help on [NoOS](http://github.com/NOperatingSystem/NOperatingSystem)-->
+- 😄 Pronouns: He/Him
+- Discord Server: [Bot Testing - A place to test random bots and Discord features and stuff](https://discord.gg/Gpm9pXtWpG)
   - [![](https://discord.com/api/guilds/744250209990738020/embed.png?style=shield)](https://discord.gg/Gpm9pXtWpG)
+- 📫 How to reach me: Join my Discord server or ping/DM me on Discord
 <!--
 **mugman174/mugman174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
