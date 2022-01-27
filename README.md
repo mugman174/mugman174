@@ -2,11 +2,11 @@
 
 - Favorite command: `sudo dd if=/dev/urandom of=/dev/sda`
 - 🔭 Currently working on: [Bifrost](https://bit.ly/add-bifrost)
-<!-- Need help on [NoOS](http://github.com/NOperatingSystem/NOperatingSystem)-->
+- Need help on [NoOS](http://github.com/NOperatingSystem/NOperatingSystem)
 - 😄 Pronouns: He/Him
 - Discord Server: [Bot Testing - A place to test random bots and Discord features and stuff](https://discord.gg/Gpm9pXtWpG)
   - [![](https://discord.com/api/guilds/744250209990738020/embed.png?style=shield)](https://discord.gg/Gpm9pXtWpG)
-- 📫 How to reach me: Join my Discord server or ping/DM me on Discord
+- 📫 How to reach me: Join my Discord server or ping/DM me on Discord.
 <!--
 **mugman174/mugman174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
