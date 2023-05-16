@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=astro,bash,cloudflare,discord,docker,fediverse,git,github,html,js,nodejs,linux,neovim,py,raspberrypi,vscode&perline=8)](https://skillicons.dev)
+
 - 🔭 Currently working on: [Bifrost](https://bit.ly/add-bifrost), a Discord bot focused on detailed audit logging.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
