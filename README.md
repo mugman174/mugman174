@@ -32,5 +32,4 @@ Hello people looking at my README file 👋
             </td>
         </tr>
     </table>
-  <img src="https://gpvc.arturio.dev/mugman174">
 </div>
