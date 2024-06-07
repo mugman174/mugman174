@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+```math
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background-size: cover; background-image: url('https://github.com/mugman174/mugman174/blob/main/WIP-6th-anniversary-wallpaper-dark.jpg?raw=true');]{x0000}$}
+```
 [![My Skills](https://skillicons.dev/icons?i=astro,bash,cloudflare,discord,docker,fediverse,git,github,html,js,nodejs,linux,neovim,py,raspberrypi,vscode&perline=8)](https://skillicons.dev)
 
 - 🔭 Currently working on: [Bifrost](https://bit.ly/add-bifrost), a Discord bot focused on detailed audit logging.
@@ -33,8 +35,3 @@ Hello people looking at my README file 👋
         </tr>
     </table>
 </div>
-```math
-
-\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://github.com/mugman174/mugman174/blob/main/WIP-6th-anniversary-wallpaper-dark.jpg?raw=true');]{x0000}$}
-
-```
