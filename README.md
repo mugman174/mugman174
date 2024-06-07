@@ -33,3 +33,6 @@ Hello people looking at my README file 👋
         </tr>
     </table>
 </div>
+```math
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://github.com/mugman174/mugman174/blob/main/WIP-6th-anniversary-wallpaper-dark.jpg?raw=true');]{x0000}$}
+```
