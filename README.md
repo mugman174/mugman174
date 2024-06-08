@@ -1,7 +1,4 @@
 ### Hi there 👋
-```math
-\ce{$\unicode[monospace; color:red; pointer-events: none; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.25; background-size: cover; background-image: url('https://github.com/mugman174/mugman174/assets/53713683/75c46e7a-c605-466d-b45f-d962111533ba');]{x0000}$}
-```
 [![My Skills](https://skillicons.dev/icons?i=astro,bash,cloudflare,discord,docker,fediverse,git,github,html,js,nodejs,linux,neovim,py,raspberrypi,vscode&perline=8)](https://skillicons.dev)
 
 - 🔭 Currently working on: [Bifrost](https://bit.ly/add-bifrost), a Discord bot focused on detailed audit logging.
