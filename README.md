@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![My Skills](https://skillicons.dev/icons?i=astro,bash,cloudflare,discord,docker,git,github,html,js,nodejs,linux,neovim,py,raspberrypi,swift,vscode&perline=8)](https://skillicons.dev)
 
-- 🔭 Currently working on: [Bifrost](https://bit.ly/add-bifrost), a Discord bot focused on detailed audit logging.
+- 🔭 Currently working on: [Bifrost](https://discord.com/oauth2/authorize?client_id=784224929549254696&permissions=8&scope=bot+applications.commands), a Discord bot focused on detailed audit logging.
 - 📫 How to reach me: Discord
 <!--
 **mugman174/mugman174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
