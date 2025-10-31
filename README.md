@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=apple,astro,bash,cloudflare,discord,docker,flask,git,github,html,java,js,nodejs,linux,md,nodejs,neovim,py,raspberrypi,regex,sentry,swift,vscode,windows&perline=8)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apple,astro,audacity,bash,caddy,cloudflare,codeberg,dbeaver,desmos,discord,discordbots,docker,flask,git,github,githubpages,html,java,js,nodejs,linux,markdown,nodejs,py,raspberrypi,regex,scratch,sentry,swift,vscode,windows,xcode&perline=8)](https://skillicons.dev)
 
 - 🔭 Currently working on: a lot of random things.
 - 📫 How to reach me: Discord
